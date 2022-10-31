@@ -58,6 +58,6 @@ public class Employee {
     void method(){
     System.out.println("Salary is "+salary+"\n");
     }
-    
+//    Krishantha
 }
 //add a comment]
