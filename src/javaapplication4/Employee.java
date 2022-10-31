@@ -55,4 +55,8 @@ public class Employee {
         return  noOfEmp;
     }
     
+    void method(){
+    System.out.println("Salary is "+salary+"\n");
+    }
+    
 }
